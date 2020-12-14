@@ -10,7 +10,7 @@ Berisi semua materi dan kode yang digunakan dalam tutorial pemrograman R
 # [🌍](https://www.belajarstatistik.com/blog/2020/12/17/dplyr-manipulasi-data/) dplyr
 
 [[🔎](dplyr/sample().R)]
-[[🌍](https://www.belajarstatistics.com/blog/2019/11/30/cara-r-uji-binomial/)]
+[[🌍](https://www.belajarstatistik.com/blog/2020/12/18/dplyr-sample/)]
 sample()
 
 [[🔎](#)]
