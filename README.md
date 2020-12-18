@@ -9,34 +9,34 @@ Berisi semua materi dan kode yang digunakan dalam tutorial pemrograman R
 
 # [🌍](https://www.belajarstatistik.com/blog/2020/12/17/dplyr-manipulasi-data/) dplyr
 
-[[🔎](dplyr/sample.R)]
+[[📂](dplyr/sample.R)]
 [[🌍](https://www.belajarstatistik.com/blog/2020/12/18/dplyr-sample/)]
 sample()
 
-[[🔎](dplyr/select.R)]
+[[📂](dplyr/select.R)]
 [[🌍](https://www.belajarstatistik.com/blog/2020/12/19/dplyr-select/)]
 select()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 arrange()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 filter()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 mutate()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 group_by()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 summarize()
 
-[[🔎](#)]
+[[📂](#)]
 [[🌍](#)]
 join()
