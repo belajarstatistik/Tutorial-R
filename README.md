@@ -17,6 +17,10 @@ sample()
 [[🌍](https://www.belajarstatistik.com/blog/2020/12/19/dplyr-select/)]
 select()
 
+[[📂](dplyr/mutate.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2020/12/21/dplyr-mutate/)]
+mutate()
+
 [[📂](#)]
 [[🌍](#)]
 arrange()
@@ -24,10 +28,6 @@ arrange()
 [[📂](#)]
 [[🌍](#)]
 filter()
-
-[[📂](#)]
-[[🌍](#)]
-mutate()
 
 [[📂](#)]
 [[🌍](#)]
