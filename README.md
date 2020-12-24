@@ -21,7 +21,7 @@ select()
 [[🌍](https://www.belajarstatistik.com/blog/2020/12/21/dplyr-mutate/)]
 mutate()
 
-[[📂](plyr/arrange.R)]
+[[📂](dplyr/arrange.R)]
 [[🌍](https://www.belajarstatistik.com/blog/2020/12/24/dplyr-arrange/)]
 arrange()
 
