@@ -29,13 +29,13 @@ arrange()
 [[🌍](https://www.belajarstatistik.com/blog/2021/01/10/dplyr-filter/)]
 filter()
 
-[[📂](#)]
-[[🌍](#)]
+[[📂](dplyr/group_by.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/14/dplyr-group-by/)]
 group_by()
 
-[[📂](#)]
-[[🌍](#)]
-summarize()
+[[📂](dplyr/summarise.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/16/dplyr-summarise/)]
+summarise()
 
 [[📂](#)]
 [[🌍](#)]
