@@ -37,6 +37,6 @@ group_by()
 [[🌍](https://www.belajarstatistik.com/blog/2021/01/16/dplyr-summarise/)]
 summarise()
 
-[[📂](#)]
-[[🌍](#)]
+[[📂](dplyr/join.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/24/dplyr-join/)]
 join()
