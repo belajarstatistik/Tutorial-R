@@ -40,3 +40,11 @@ summarise()
 [[📂](dplyr/join.R)]
 [[🌍](https://www.belajarstatistik.com/blog/2021/01/24/dplyr-join/)]
 join()
+
+[[📂](dplyr/paste.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/28/dplyr-paste/)]
+paste()
+
+[[📂](dplyr/toString.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/30/dplyr-tostring/)]
+toString()
