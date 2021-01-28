@@ -41,10 +41,19 @@ summarise()
 [[🌍](https://www.belajarstatistik.com/blog/2021/01/24/dplyr-join/)]
 join()
 
-[[📂](dplyr/paste.R)]
-[[🌍](https://www.belajarstatistik.com/blog/2021/01/28/dplyr-paste/)]
+
+# Bekerja dengan Tipe Data String
+
+[[📂](string/paste.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/29/string-paste/)]
 paste()
 
-[[📂](dplyr/toString.R)]
-[[🌍](https://www.belajarstatistik.com/blog/2021/01/30/dplyr-tostring/)]
+[[📂](string/toString.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/01/31/string-tostring/)]
 toString()
+
+# Membaca Dataset
+
+[[📂](dataset/read_csv/read_csv.R)]
+[[🌍](https://www.belajarstatistik.com/blog/2021/02/02/dataset-read-csv/)]
+read_csv()
